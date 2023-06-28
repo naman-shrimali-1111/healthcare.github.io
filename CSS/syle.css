@@ -168,6 +168,17 @@ html{
     flex-direction: row;
     font-size: 20px;
 }
+.Secright{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px;
+    flex-direction: row-reverse;
+    font-size: 20px;
+}
 .paras{
     padding: 0px 30px;
 }
