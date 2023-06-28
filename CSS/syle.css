@@ -65,7 +65,7 @@ html{
 }
 
 .background{
-    background: aquamarine;
+    background: black;
     background-size: cover;
     background-blend-mode: darken;
 }
