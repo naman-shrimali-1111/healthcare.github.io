@@ -65,7 +65,7 @@ html{
 }
 
 .background{
-    background: url("IMG/AI3.jpg");
+    background: black;
     background-size: cover;
     background-blend-mode: darken;
 }
